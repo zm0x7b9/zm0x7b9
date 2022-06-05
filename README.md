@@ -10,7 +10,10 @@
  <li>Sequelize</li>
  <li>Socket.io</li>
  </ul>
-📫 How to reach me: <a href="https://www.linkedin.com/in/zm0x7b9/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" widht="50" height="50" /></a>
+📫 How to reach me: 
+<a href="https://www.linkedin.com/in/zm0x7b9/">
+ <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" widht="25" height="25" />
+</a>
 
 <!--
 **zm0x7b9/zm0x7b9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
