@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my final project for HENRY Bootcamp. A Single Page Application (SPA) using React/Redux, Express, PostgreSQL, Sequelize, Socket.io, AuthO.
+
+- 📫 How to reach me: zm0x7b9@gmail.com
 <!--
 **zm0x7b9/zm0x7b9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
