@@ -1,6 +1,13 @@
 ### Hi there :satellite:
 
-- :microscope: I’m currently working on my final project for HENRY Bootcamp. A Single Page Application (SPA) using React/Redux, Express, PostgreSQL, Sequelize, Socket.io, AuthO.
+- :microscope: I’m currently working on my final project for HENRY Bootcamp. 
+
+- :computer: Tech Skills:
+ * React/Redux
+ * Express
+ * PostgreSQL
+ * Sequelize
+ * Socket.io
 
 - 📫 How to reach me: zm0x7b9@gmail.com
 
