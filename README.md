@@ -1,8 +1,8 @@
 ### Hi there :satellite:
 
-- :microscope: I’m currently working on my final project for HENRY Bootcamp. 
+:microscope: I’m currently working on my final project for HENRY Bootcamp. 
 
-- :computer: Tech Skills:
+:computer: Tech Skills:
  <ul>
  <li>React/Redux</li>
  <li>Express</li>
@@ -10,7 +10,7 @@
  <li>Sequelize</li>
  <li>Socket.io</li>
  </ul>
-- 📫 How to reach me: zm0x7b9@gmail.com
+📫 How to reach me: zm0x7b9@gmail.com
 
 <!--
 **zm0x7b9/zm0x7b9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
