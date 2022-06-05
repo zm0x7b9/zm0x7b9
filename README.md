@@ -13,7 +13,7 @@
 📫 How to reach me: 
 <br>
 <a href="https://www.linkedin.com/in/zm0x7b9/" target="_blank">
- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" widht="25" height="25" />
+ <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" widht="15" height="15" />
 </a>
 
 <!--
