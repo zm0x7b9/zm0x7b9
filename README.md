@@ -10,8 +10,7 @@
  <li>Sequelize</li>
  <li>Socket.io</li>
  </ul>
-📫 How to reach me: zm0x7b9@gmail.com
-
+📫 How to reach me: https://www.linkedin.com/in/zm0x7b9/
 <!--
 **zm0x7b9/zm0x7b9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
