@@ -9,6 +9,7 @@
  <li>PostgreSQL</li>
  <li>Sequelize</li>
  <li>Socket.io</li>
+ <li>Leaflet</li>
  </ul>
 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/zm0x7b9/" target="_blank">
