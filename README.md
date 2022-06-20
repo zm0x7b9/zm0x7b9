@@ -1,6 +1,7 @@
-### Hi there :satellite:
+### Hi there :satellite: | Full Stack Developer | JavaScript | React Redux | NodeJS |
 
-:microscope: I’m currently working on my final project for HENRY Bootcamp. 
+:microscope: Enthusiastic about the development of the logic and structure of web applications.
+I am open to continuous learning of new technologies and teamwork to provide an optimal solution to problems that arise.
 
 :computer: Tech Skills:
  <ul>
