@@ -4,18 +4,18 @@
 
 :computer: Tech Skills:
  <ul>
- <li>React Redux</li>
- <li>React Leaflet</li>
- <li>Express</li>
- <li>PostgreSQL</li>
- <li>Sequelize</li>
- <li>Socket.io</li>
+  <li>React Redux</li>
+  <li>React Leaflet</li>
+  <li>Express</li>
+  <li>PostgreSQL</li>
+  <li>Sequelize</li>
+  <li>Socket.io</li>
  </ul>
 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/zm0x7b9/" target="_blank">
- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" widht="20" height="20" />
-</a>
-
+<ul>
+ <li><a href="mailto:zm0x7b9@gmail.com">Email</a></li>
+ <li><a href="https://www.linkedin.com/in/zm0x7b9/" target="_blank">LinkedIn</a></li>
+</ul>
 <!--
 **zm0x7b9/zm0x7b9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
