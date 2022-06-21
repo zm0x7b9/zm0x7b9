@@ -1,6 +1,6 @@
 ### Hi there :satellite: | Full Stack Developer | JavaScript | React Redux | NodeJS |
 
-:microscope: Hi! I'm Leonardo, Full Stack Developer. Enthusiastic about the development of the logic and structure of web applications.
+:microscope: Hi! I'm Leonardo, Full Stack Developer, graduated from the HENRY bootcamp. I'm an enthusiastic about the development of the logic and structure of web applications.
 I am open to continuous learning of new technologies and teamwork to provide an optimal solution to problems that arise.
 
 :computer: Tech Skills:
